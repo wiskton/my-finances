@@ -10,6 +10,6 @@ project for study
 
 ## Run Backend Node
 
-cd backend-nodejs
-npm install
-npm run dev
+    cd backend-nodejs
+    npm install
+    npm run dev
