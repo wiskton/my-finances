@@ -10,6 +10,12 @@ project for study
 
 ## Run Backend Node
 
-    cd backend-nodejs
+    cd backend-node
+    npm install
+    npm run dev
+
+## Run Frontend Angular 1.6
+
+    cd frontend-angular
     npm install
     npm run dev
