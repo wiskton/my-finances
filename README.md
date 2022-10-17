@@ -8,7 +8,7 @@ project for study
 - Angular
 - Node
 
-## Run Backend Node
+## Run Backend Node (need to create an environment variable named "AUTH_SECRET")
 
     cd backend-node
     npm install
